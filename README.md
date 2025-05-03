@@ -11,11 +11,11 @@ PyUserNameGeneratorAnonymity
 
   **Windows 🪟:**
 
-  [>>>Click Here for Download<<<](https://github.com/Migq1203r/PyUseNameAnonymity/archive/refs/heads/main.zip)
+  [>>>Click Here for Download<<<](https://github.com/Migq1203r/PyUserNameAnonymity/archive/refs/heads/main.zip)
 
   **Linux 🐧 and Mac 🍎:**
   
-  ```git clone https://github.com/Migq1203r/PyUseNameAnonymity```
+  ```git clone https://github.com/Migq1203r/PyUserNameAnonymity```
 
 # **Images: 🖼️**
 
